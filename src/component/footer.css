@@ -1,0 +1,7 @@
+.footer{
+    position: sticky;
+    top: 0;
+    margin-bottom: 100%;
+    background-color: aqua;
+    width: 120%;
+}
